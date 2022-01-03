@@ -12,4 +12,5 @@ Imagens ilustrativas da PCB final e o desenvolvimento associado.
 <li>Implementação do projeto segundo a orientação do microcontrolador ATMega328P;</li>
 <li>Desenvolvimento de toda a programação C assim como desenho das PCB necessárias á execução do projeto;</li>
 </ul>
+
 Para outros esclarecimentos contacte pelo email 1181045@isep.ipp.pt.
