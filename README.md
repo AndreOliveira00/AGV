@@ -1,7 +1,7 @@
 # AGV
  Automated Guided Vehicle Controlled by Atmega328P
 
-Este repositório contém o relatório do projeto desenvolvido na Licenciatura de Engenharia Eletrotécnca e de Computadores na Unidade curricular LABSI. 
+Este repositório contém o relatório do projeto desenvolvido na Licenciatura de Engenharia Eletrotécnica e de Computadores na Unidade curricular LABSI. 
 Imagens ilustrativas da PCB final e o desenvolvimento associado.
 
 
